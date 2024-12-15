@@ -1,5 +1,5 @@
 
-class RES_Asset:
+class RES_Asset: # wahnsinnsklasse
     def __init__(
             self,
             Pnom_MW
