@@ -8,6 +8,7 @@ def main():
     pd.set_option("display.min_rows", 10)
 
     # Set up Modul Objects with plant parameters
+    # Wahnsinnig hilfreicher Kommentar
 
     RES_Asset_Wind = modul.RES_Asset(
         Pnom_MW=100
